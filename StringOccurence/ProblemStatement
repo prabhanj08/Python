@@ -1,0 +1,5 @@
+# write logic which gets a string with repetitive character
+# return result with combination of string and count of occurence
+
+# input st = aabccdeffg
+# result = a3b1c3d1e1f2g1
