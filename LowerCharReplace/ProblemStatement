@@ -1,0 +1,4 @@
+Create  a function to replace lower character in a string with interger value 
+
+# Input string AaBcDeFHi
+# Expected result A1B2D3FH4
