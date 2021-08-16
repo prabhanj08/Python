@@ -1,2 +1,2 @@
 # Python
-Basic python progamems
+Basic python programs
